@@ -1,0 +1,8 @@
+{
+  "name": "Zenitsu Smart Complaint System",
+  "description": "A high-performance complaint and service management system themed after Zenitsu's Thunder Breathing, featuring real-time updates, GPS tracking, and camera capture.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
